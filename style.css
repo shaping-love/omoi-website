@@ -27,3 +27,21 @@
   margin: 8px 0 0;
   line-height: 1.8;
 }
+
+
+.footer-contact {
+  margin-top: 12px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.footer-contact a,
+.footer-legal {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.footer-legal {
+  font-size: 13px;
+  opacity: 0.8;
+}
